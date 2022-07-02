@@ -1,0 +1,5 @@
+cluster:
+0 Best: highest income, the most campaigns accepted, the most spender, tend have no child, least web visit
+1 Regular : low income but not lowest, low spender, tend to have more than one children, often to visiting website, 
+2 Bad : lowest income, lowest spender, the least campaign accepted, youngest age group average, least educated, most number of web visit in a month
+3 Good: high income but not highest, high spender, oldest age group average, tend to have one child, 
